@@ -17,7 +17,8 @@ This project uses SQL to analyze Blinkit's grocery sales data and uncover insigh
 - Insights extraction and data cleaning
 
 
-📂 File:[blinkit_analysis_edited.sql](blob/main/blinkit_analysis_edited.sql)
+📂 File:[blinkit_grocery_analysis.sql](blob/main/blinkit_grocery_analysis.sql)
+
 
 
 
