@@ -16,11 +16,9 @@ This project uses SQL to analyze Blinkit's grocery sales data and uncover insigh
 - Grouping & Aggregation (`GROUP BY`, `ORDER BY`)
 - Insights extraction and data cleaning
 
-## 🚀 Future Scope
-- Visualize data in Power BI/Tableau
-- Add ML models for sales prediction
 
-📂 File: `blinkit_analysis_edited.sql`
+📂 File: 📂 [blinkit_analysis_edited.sql](./blinkit_analysis_edited.sql)
+
 
 ---
 
